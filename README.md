@@ -1,4 +1,5 @@
 # Sales-Optimization-Dashboard-for-a-Small-Business
+
 In 2020, I co-founded 'Manipal thrift' now 'Thrift Attic' , an online store with a reach of 1000+ members that aims to address the issue of environmental restoration by establishing a space for affordable fashion that is a combination of recreating and recycling.
 
  This dashboard has been meticulously crafted to enhance our understanding of critical aspects that drive our sales and inventory management decisions.
