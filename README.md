@@ -11,7 +11,6 @@ This Power BI dashboard showcases a data-driven approach to optimize sales, mana
 To create an inclusive and sustainable thrift store that fosters a community focused on affordable fashion and environmental restoration.
 
 **Achievements**:
-- **₹11,090 INR** revenue generated.
 - **50+ clothing items** sold (2021–2022).
 - Estimated **35,011.25 liters of water saved**, enough to meet the drinking needs of a person for 32 years.
 - Recognized by **Schneider Electric Sustainability Championship 2021** for promoting eco-friendly practices.
