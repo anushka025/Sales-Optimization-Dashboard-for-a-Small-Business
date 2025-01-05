@@ -1,24 +1,89 @@
-# Sales-Optimization-Dashboard-for-a-Small-Business
+# Manipal Thrift Sales Optimization Dashboard
 
-In 2020, I co-founded 'Manipal thrift' now 'Thrift Attic' , an online store with a reach of 1000+ members that aims to address the issue of environmental restoration by establishing a space for affordable fashion that is a combination of recreating and recycling.
+**Manipal Thrift** (now rebranded as **Thrift Attic**) is a sustainable thrift store initiative I co-founded during my undergraduate years (2020–2022). This project promotes **affordable pre-loved fashion** while addressing environmental challenges like water conservation and textile waste. 
 
- This dashboard has been meticulously crafted to enhance our understanding of critical aspects that drive our sales and inventory management decisions.
+This Power BI dashboard showcases a data-driven approach to optimize sales, manage inventory, and analyze customer behavior for improved decision-making.
 
-Key Insights and Features:
+---
 
-Region-wise Sales Analysis:
+## Vision
 
-One of the standout features of this dashboard is its ability to analyze sales based on shipping locations, allowing us to pinpoint the regions with the highest sales volume. This valuable information helps us tailor our marketing and distribution strategies to optimize sales in specific areas.
-Sales by Garment Category:
+To create an inclusive and sustainable thrift store that fosters a community focused on affordable fashion and environmental restoration.
 
-The dashboard provides a breakdown of sales by garment category, enabling us to identify which category is contributing the most to our overall revenue. This knowledge guides our product development and marketing efforts.
-Sold vs. Unsold Item Ratio:
+**Achievements**:
+- **₹11,090 INR** revenue generated.
+- **50+ clothing items** sold (2021–2022).
+- Estimated **35,011.25 liters of water saved**, enough to meet the drinking needs of a person for 32 years.
+- Recognized by **Schneider Electric Sustainability Championship 2021** for promoting eco-friendly practices.
 
-To maintain an efficient inventory, the dashboard also displays the ratio of sold to unsold items for each garment category. This insight assists us in optimizing stock levels, reducing excess inventory, and minimizing potential losses.
-Overall Business Performance:
+---
 
-The overarching dashboard provides a holistic view of our small business's performance, consolidating data from different garment types. It offers a quick snapshot of our sales trends and allows us to make informed decisions that benefit the entire organization.
-Interactive Visualization:
+## Key Dashboard Features
 
-The dashboard is equipped with interactive charts, graphs, and filters, making it user-friendly and customizable to meet our specific needs. Team members can easily explore and drill down into data to uncover deeper insights.
-In summary, our Sales Analysis Dashboard empowers us to make data-driven decisions that enhance our sales, optimize inventory, and drive the growth of our small business. With a focus on different garment types and a holistic view of our business, we are better equipped than ever to maximize our potential and serve our customers more effectively.
+### 1. **Region-Wise Sales Analysis**
+- Visualizes sales performance across India.
+- Identifies high-performing regions like **Bangalore**, **Mumbai**, and **Hyderabad**.
+- **Impact**: Enabled targeted marketing campaigns in key regions.
+
+### 2. **Sales by Garment Category**
+- Highlights top-performing categories:
+  - **Crop Tops** and **Sleeveless Tops** drive the highest revenue.
+  - Slow-moving items like **skirts** and **jeans** identified for clearance.
+- **Impact**: Guided inventory sourcing and promotional strategies.
+
+### 3. **Sold vs. Unsold Ratio**
+- Visualizes sold vs. unsold item ratios per category.
+- **Impact**: Optimized stock levels and minimized overstock issues.
+
+### 4. **Geographic Insights**
+- Interactive map visualizes shipping locations.
+- Uncovered regional preferences, helping customize inventory.
+
+### 5. **Monthly Sales Trends**
+- Analyzes peak sales periods (festive seasons, events).
+- **Impact**: Helped launch time-sensitive campaigns.
+
+### 6. **Comprehensive Visualization**
+- Includes:
+  - **Bar Charts** for revenue trends.
+  - **Treemaps** for category performance.
+  - **Geographic Heatmaps** for region-based sales.
+  - **Pie Charts** for sold/unsold ratios.
+
+---
+
+## How the Dashboard Helped
+
+The dashboard empowered **Manipal Thrift** to:
+1. **Enhance Customer Outreach**: Focused campaigns based on regional and seasonal preferences.
+2. **Optimize Inventory**: Reduced unsold stock by **20%**, ensuring better profitability.
+3. **Boost Engagement**: Leveraged insights to create tailored marketing campaigns.
+
+---
+
+## Tools and Technologies
+
+- **Power BI** for visualization.
+- **Data Sources**:
+  - Sales and shipping data from Manipal Thrift.
+  - Customer behavior insights.
+- **Visualizations**: Bar Charts, Treemaps, Heatmaps, Pie Charts.
+
+---
+
+## Insights in Action
+
+Using this dashboard, we:
+- Focused marketing efforts on top regions and categories.
+- Launched clearance sales for slow-moving items, boosting revenue.
+- Enhanced inventory forecasting for future collections.
+
+---
+
+## Future Scope
+
+- Integrate real-time sales tracking for agility in decision-making.
+- Expand the dashboard to include customer feedback data for deeper insights.
+- Leverage predictive analytics to forecast future trends.
+
+This dashboard is an example of how data-driven decisions can transform small businesses into thriving, sustainable ventures.
